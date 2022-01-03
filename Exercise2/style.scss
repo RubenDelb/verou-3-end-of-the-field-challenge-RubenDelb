@@ -16,6 +16,7 @@ body {
         margin: 27px 25px 0 25px;
         height: 491px;
         border-bottom: solid 1px;
+        color: #81879E;
 
         .section-left {
             width: 280px;
@@ -33,10 +34,12 @@ body {
                 width: 18px;
                 height: 18px;
                 margin-right: 5px;
+                filter: contrast(10%)
             }
         }
 
         h3 {
+            color: #33394F;
             font-family: 'Fira Sans', sans-serif;
             margin-bottom: 40px;
         }
@@ -70,8 +73,10 @@ body {
         display: flex;
         flex-direction: row;
         font-size: 15px;
+        color: #81879E;
 
         img {
+            filter: contrast(10%);
             width: 13px;
             margin-right: 2px;
 

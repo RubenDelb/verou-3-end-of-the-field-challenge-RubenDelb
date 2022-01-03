@@ -27,6 +27,7 @@ body .sections {
   margin: 27px 25px 0 25px;
   height: 491px;
   border-bottom: solid 1px;
+  color: #81879E;
 }
 
 body .sections .section-left {
@@ -46,9 +47,12 @@ body .sections .section-left img {
   width: 18px;
   height: 18px;
   margin-right: 5px;
+  -webkit-filter: contrast(10%);
+          filter: contrast(10%);
 }
 
 body .sections h3 {
+  color: #33394F;
   font-family: 'Fira Sans', sans-serif;
   margin-bottom: 40px;
 }
@@ -85,9 +89,12 @@ body footer {
       -ms-flex-direction: row;
           flex-direction: row;
   font-size: 15px;
+  color: #81879E;
 }
 
 body footer img {
+  -webkit-filter: contrast(10%);
+          filter: contrast(10%);
   width: 13px;
   margin-right: 2px;
 }
