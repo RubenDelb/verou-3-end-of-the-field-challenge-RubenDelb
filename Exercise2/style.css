@@ -5,8 +5,76 @@
 
 body {
   font-family: 'Roboto', sans-serif;
-  background-image: url(/Exercise2/complex.09.png);
-  background-repeat: no-repeat;
-  background-size: auto;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+}
+
+body .sections {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: row;
+          flex-direction: row;
+  font-weight: bold;
+  text-shadow: 2px;
+  margin: 27px 25px 0 25px;
+  height: 491px;
+  border-bottom: solid 1px;
+}
+
+body .sections .section-left {
+  width: 280px;
+  height: auto;
+  margin-right: 220px;
+}
+
+body .sections .section-left .buttons {
+  margin-top: 40px;
+}
+
+body .sections .section-left img {
+  padding: 5px;
+  border: solid 1px;
+  border-radius: 5px;
+  width: 18px;
+  height: 18px;
+  margin-right: 5px;
+}
+
+body .sections h3 {
+  font-family: 'Fira Sans', sans-serif;
+  margin-bottom: 40px;
+}
+
+body .sections ul {
+  list-style-type: none;
+}
+
+body .sections li {
+  margin-bottom: 25px;
+}
+
+body .sections a {
+  text-decoration: none;
+  color: inherit;
+}
+
+body .sections .second-section {
+  width: 250px;
+}
+
+body .sections .third-section {
+  width: 250px;
+}
+
+body .sections .fourth-section {
+  width: 250px;
 }
 /*# sourceMappingURL=style.css.map */
