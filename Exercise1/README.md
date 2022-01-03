@@ -1,12 +1,3 @@
-Ruben Delbrassine
-
-This is the first test in my becode-adventure, at the end of the field.
-
-[This](./index.html) is the link to my first exercise and [This]() is the link to my second exercise.
-
-
-
-
 # verou-3-end-of-the-field-challenge-RubenDelb
 # End of Field Challenge
 # End of Field Challenge
