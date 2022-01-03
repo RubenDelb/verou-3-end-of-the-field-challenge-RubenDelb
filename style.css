@@ -10,7 +10,7 @@ body {
   opacity: 0.8;
 }
 
-body .header {
+body header {
   margin: 13px 0 0 15px;
   font-size: 7em;
   letter-spacing: -0.03em;
