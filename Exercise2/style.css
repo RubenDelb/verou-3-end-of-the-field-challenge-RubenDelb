@@ -2,4 +2,11 @@
   margin: 0;
   padding: 0;
 }
+
+body {
+  font-family: 'Roboto', sans-serif;
+  background-image: url(/Exercise2/complex.09.png);
+  background-repeat: no-repeat;
+  background-size: auto;
+}
 /*# sourceMappingURL=style.css.map */
