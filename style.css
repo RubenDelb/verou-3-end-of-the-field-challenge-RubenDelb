@@ -2,4 +2,52 @@
   margin: 0;
   padding: 0;
 }
+
+body {
+  background-image: url(/images/interface.15.pg);
+  background-repeat: no-repeat;
+  font-family: 'Yantramanav', sans-serif;
+  opacity: 0.8;
+}
+
+body .header {
+  margin: 13px 0 0 15px;
+  font-size: 7em;
+  letter-spacing: -0.03em;
+  line-height: 0.85em;
+  width: 653px;
+}
+
+body .subTitle {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: row;
+          flex-direction: row;
+  margin: 25px 0 0 25px;
+  letter-spacing: 0.08em;
+}
+
+body .subTitle p {
+  padding-left: 25px;
+  letter-spacing: 0.005em;
+}
+
+body .btn {
+  margin: 29px 0 0 27px;
+}
+
+body .btn button {
+  background-color: white;
+  border-radius: 25px;
+  height: 42px;
+  width: 150px;
+}
+
+body .btn button img {
+  width: 17px;
+  padding-right: 8px;
+}
 /*# sourceMappingURL=style.css.map */

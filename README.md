@@ -1,5 +1,6 @@
 # verou-3-end-of-the-field-challenge-RubenDelb
 # End of Field Challenge
+# End of Field Challenge
 
 - Repository name: `end-of-field-challenge`
 - Mode: `solo`
@@ -52,7 +53,7 @@ For each interface :
 
 ## Interfaces
 
-Find out which interfaces randomness has assigned to you on [this file](https://docs.google.com/spreadsheets/d/1_FCnDypQtes-7-KEe8NnqnIKwKL6ZCtgdalIHS6Il8M/edit#gid=345826744).
+Find out which interfaces randomness has assigned to you on [this file](https://docs.google.com/spreadsheets/d/1yge1RbDpqycDn5yrSFac2_qfEFv14eTEUXN2WbM20Hg/edit#gid=0).
 
 Each one of you has been assigned two _simple_ interfaces, and a more _complex_ one. You may choose to build the two simple ones, or one simple AND the complex one.
 
